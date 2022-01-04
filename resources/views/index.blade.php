@@ -323,7 +323,7 @@ Amir Zare - Professional web developer and programmer
       
       <div class="row">
             <div class="col-md-12">
-              <h1 class="arrow">My <span>little</span> blog</h1>
+              <h1 class="arrow">My <span>last</span> Projects</h1>
             </div>
           </div><br><br>
     
@@ -339,7 +339,7 @@ Amir Zare - Professional web developer and programmer
                       </div>
                     </div>
           <br>
-                    <h2>Creative Minds</h2>
+                    <h2>Social Media</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p><!-- Description-->
                   </div>
         <!-- Blog Entry 2 -->
@@ -350,7 +350,7 @@ Amir Zare - Professional web developer and programmer
                       </div>
                     </div>
           <br>
-                    <h2>Creative Hearts</h2>
+                    <h2>Laravel Project</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p><!-- Description -->
                   </div>
         <!-- Blog Entry 3 -->
@@ -361,7 +361,7 @@ Amir Zare - Professional web developer and programmer
                       </div>
                     </div>
           <br>
-                    <h2>Creative Ideas</h2>
+                    <h2>Glass Company</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p><!-- Description-->
                   </div>
                 </li>
@@ -374,7 +374,7 @@ Amir Zare - Professional web developer and programmer
                       </div>
                     </div>
           <br>
-                    <h2>Creative Minds</h2>
+                    <h2>Guess Images</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p><!-- Description -->
                   </div>
         <!-- Blog Entry 5 -->
@@ -385,7 +385,7 @@ Amir Zare - Professional web developer and programmer
                       </div>
                     </div>
           <br>
-                    <h2>Creative Hearts</h2>
+                    <h2>Create Model</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
                   </div>
         <!-- Blog Entry 6 -->
@@ -396,7 +396,7 @@ Amir Zare - Professional web developer and programmer
                       </div>
                     </div>
           <br>
-                    <h2>Creative Ideas</h2>
+                    <h2>Detect Pictures</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p><!-- Description -->
                   </div>
                 </li>
@@ -422,12 +422,12 @@ Amir Zare - Professional web developer and programmer
               </div>
               <!-- Clients / Testimonials -->
               <div class="col-md-6 nopadding about-text">
-              <h6>What our clients said</h6>
+              <h6>Paziresh24 Team</h6>
                   <div id="clientSlider">
                      <ul class="slides">
-                         <li><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Pete Rock, A New Tomorrow</small></p></li>
-                         <li><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Michael Snowden, Creativeland CEO</small></p></li>
-                        <li><p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Tom Davis, GreenWonder</small></p>	</li>
+                         <li><p>Paziresh24 Team sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Pete Rock, A New Tomorrow</small></p></li>
+                         <li><p>Paziresh24 Team sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Michael Snowden, Creativeland CEO</small></p></li>
+                        <li><p>Paziresh24 Team sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Tom Davis, GreenWonder</small></p>	</li>
                      </ul>
                   </div>
               </div>
@@ -484,68 +484,37 @@ Amir Zare - Professional web developer and programmer
             <div class="col-md-4">
               <div class="dark-box box-hover">
                 <h2><i class="fa fa-map-marker"></i><span>Address</span></h2>
-                <p>23 Ipsum street, New York</p>
+                <p>Yazd, Iran</p>
               </div>
             </div>
             <!-- Phone Number Box -->
             <div class="col-md-4">
               <div class="dark-box box-hover">
                 <h2><i class="fa fa-mobile"></i><span>Phone</span></h2>
-                <p>+12 345 6789</p>
+                <p>+98 913 5291501</p>
               </div>
             </div>
             <!-- E-Mail Box -->
             <div class="col-md-4">
               <div class="dark-box box-hover">
                 <h2><i class="fa fa-paper-plane"></i><span>Email</span></h2>
-                <p><a href="#">info@themewagon.com</a></p>
+                <p><a href="mailto: amirjoun2@gmail.com">amirjoun2@gmail.com</a></p>
               </div>
             </div>
           </div>
           <div class="row">
-            <!-- Google Maps (Change your Settings below) -->
             <div class="col-md-6">
-              <div id="googlemaps"></div>
             </div>
             <!-- Contact Form -->
-            <div class="col-md-6 contact">
-               <form role="form">
-                          <!-- Name -->
-                          <div class="row">
-                              <div class="col-md-6">
-                                  <!-- E-Mail -->
-                                  <div class="form-group">
-                                      <input type="text" class="form-control" placeholder="Your name">
-                                  </div>
-                              </div>
-                              <div class="col-md-6">
-                                  <!-- Phone Number -->
-                                  <div class="form-group">
-                                      <input type="email" class="form-control" placeholder="Email address">
-                                  </div>
-                              </div>
-                          </div>
-                          <!-- Message Area -->
-                          <div class="form-group">
-                              <textarea class="form-control" placeholder="Write you message here..." style="height:232px;"></textarea>
-                          </div>
-                          <!-- Subtmit Button -->
-                          <button type="submit" class="btn btn-send">
-                              Send message
-                          </button>
-                      </form>
-            </div>
+            
           </div>
           <br>
           <!-- Social Buttons - use font-awesome, past in what you want -->
           <div class="row">
             <div class="col-md-12">
               <ul class="social-buttons">
-                <li><a href="#" class="social-btn"><i class="fa fa-dribbble"></i></a></li><!-- dribble -->
-                <li><a href="#" class="social-btn"><i class="fa fa-twitter"></i></a></li><!-- twitter -->
-                <li><a href="#" class="social-btn"><i class="fa fa-facebook"></i></a></li><!-- facebook -->
-                <li><a href="#" class="social-btn"><i class="fa fa-deviantart"></i></a></li><!-- deviantart -->
-                <li><a href="#" class="social-btn"><i class="fa fa-youtube"></i></a></li><!-- youtube -->
+                <li><a href="https://www.instagram.com/mr_programmig/" target="_blank" class="social-btn"><i class="fa fa-instagram"></i></a></li><!-- facebook -->
+                <li><a href="https://www.linkedin.com/in/binahayat00/" target="_blank" class="social-btn"><i class="fa fa-linkedin"></i></a></li><!-- deviantart -->
               </ul>
             </div>
           </div>
@@ -564,7 +533,7 @@ Amir Zare - Professional web developer and programmer
         <div class="container">
           <div class="row">
             <div class="col-md-12 text-center">
-              <p>All Rights Reserved. &copy; 2015 <a href="http://www.themewagon.com">ThemeWagon</a>
+              <p>All Rights Reserved. &copy; 2022 <a href="#">Mr Programmer</a>
             </div>
           </div>
         </div>
@@ -619,13 +588,6 @@ Amir Zare - Professional web developer and programmer
               // This is where you would paste any style found on Snazzy Maps.
               styles: [	{		featureType:'water',		stylers:[{color:'#F2F2F2'},{visibility:'on'}]	},{		featureType:'landscape',		stylers:[{color:'#FFFFFF'}]	},{		featureType:'road',		stylers:[{saturation:-100},{lightness:45}]	},{		featureType:'road.highway',		stylers:[{visibility:'simplified'}]	},{		featureType:'road.arterial',		elementType:'labels.icon',		stylers:[{visibility:'off'}]	},{		featureType:'administrative',		elementType:'labels.text.fill',		stylers:[{color:'#ADADAD'}]	},{		featureType:'transit',		stylers:[{visibility:'off'}]	},{		featureType:'poi',		stylers:[{visibility:'off'}]	}]
           };
-
-          // Get the HTML DOM element that will contain your map 
-          // We are using a div with id="map" seen below in the <body>
-          var mapElement = document.getElementById('googlemaps');
-
-          // Create the Google Map using out element and options defined above
-          var map = new google.maps.Map(mapElement, mapOptions);
       }
   
   </script>
