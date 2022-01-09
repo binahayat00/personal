@@ -26,7 +26,7 @@ Amir Zare - Professional web developer and programmer
                       <a href="#about"><i class="fa fa-fw fa-quote-left"></i><span>About</span></a>
                       <a href="#service"><i class="fa fa-fw fa-globe"></i><span>Service</span></a>
                       <a href="#portfolio"><i class="fa fa-fw fa-picture-o"></i><span>Portfolio</span></a>
-                      <a href="#blog"><i class="fa fa-fw fa-rss"></i><span>Blog</span></a>
+                      <a href="#Project"><i class="fa fa-fw fa-rss"></i><span>Project</span></a>
                       <a href="#contact"><i class="fa fa-fw fa-envelope-o"></i><span>Contact</span></a>
                   </div>
               </nav>
@@ -50,7 +50,8 @@ Amir Zare - Professional web developer and programmer
                   <span style="color:#E04343;">A</span>MI<span style="color:#E04343;">R</span><br/>
                   <span>Z<span style="color:#FFE800">AR</span>E</span>
                 </h1><!-- Title -->
-                <h3 class="animated fadeInUp delay-05s"><span class="rotate">Web Developer,Programmer,Designer</span></h3><!-- Text Rotator -->
+                <h3 class="animated fadeInUp delay-05s"><span class="rotate">Web Developer,Programmer,AI Developer
+</span></h3><!-- Text Rotator -->
               </div>
             </div>
             <!-- Learn More Button -->
@@ -118,8 +119,6 @@ Amir Zare - Professional web developer and programmer
                     <i class="fa fa-camera"></i><!-- Icon -->
                   </div>
                   <h2>Programmer</h2><!-- Title -->
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum
-                  primis in faucibus.</p><!-- Description -->
                 </div>
         <!-- Service Box 2 -->
                 <div class="col-md-4 wp2 item delay-05s">
@@ -127,17 +126,13 @@ Amir Zare - Professional web developer and programmer
                     <i class="fa fa-desktop"></i><!-- Icon -->
                   </div>
                   <h2>Web Developer</h2><!-- Title -->
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum
-                  primis in faucibus.</p><!-- Description -->
                 </div>
         <!-- Service Box 3 -->
                 <div class="col-md-4 wp2 item delay-1s">
                   <div class="icon">
                     <i class="fa fa-cubes"></i><!-- Icon -->
                   </div>
-                  <h2>Designer</h2><!-- Title -->
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a lorem quis neque interdum consequat ut sed sem. Duis quis tempor nunc. Interdum et malesuada fames ac ante ipsum
-                  primis in faucibus.</p><!-- Description -->
+                  <h2>AI Developer</h2><!-- Title -->
                 </div>
         </div>
                 <div class="clearfix"></div>
@@ -157,31 +152,11 @@ Amir Zare - Professional web developer and programmer
                   <div class="about-image" style="background-image:url(img/about1.png)"></div><!-- about image 1 -->
               </div>
               <div class="col-md-6 about-text">
-                  <h6>High quality webdesign</h6><!-- headline-->
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p><br><!-- About Text 1 -->
-                  <a href="#team" class="weight-outline-btn">Read more</a><!-- read more button  -->			
-              </div>
-          </div>
-          <!-- About 2 -->
-          <div class="row">
-              <div class="col-md-6 about-text">
-                  <h6>Professional Photography</h6>
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p><br><!-- About Text 2 -->
-                  <a href="#team" class="weight-outline-btn">Read more</a>	<!-- read more button  -->				
-              </div>
-              <div class="col-md-6 nopadding features-intro-img">
-                  <div class="about-image" style="background-image:url(img/about2.png)"></div><!-- about image 2 -->
-              </div>
-          </div>
-          <!-- About 3 -->
-          <div class="row color-bg">
-              <div class="col-md-6 nopadding features-intro-img">
-                  <div class="about-image" style="background-image:url(img/about3.png)"></div><!-- about image 3 -->
-              </div>
-              <div class="col-md-6 about-text">
-                  <h6>3d modeling and animations</h6><!-- Headline-->
-                  <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat.</p><br><!-- About Text 3 -->
-                  <a href="#team" class="weight-outline-btn">Read more</a><!-- read more button  -->					
+                  <h1>EDUCATION</h1><hr>
+                  <h6>Bachelor Degree</h6>
+                  <h6>Software Engineering</h6>
+                  <h6><a href="http://meybod.ac.ir/default/lang/En" target="_blank">Meybod University</a></h6>
+                  <p>2018 - 2022</p><br>
               </div>
           </div>
       </div>
@@ -200,7 +175,7 @@ Amir Zare - Professional web developer and programmer
           
           <div class="row">
             <h1 class="arrow">
-              Recent <span>Porojects</span>
+              My <span>Certificates</span>
             </h1>
           </div>
         </div>
@@ -316,9 +291,9 @@ Amir Zare - Professional web developer and programmer
       
 
   <!-- ==========================
-      BLOG SECTION 
+      Project SECTION 
       =========================== -->
-  <section class="text-center section-padding" id="blog">
+  <section class="text-center section-padding" id="Project">
         <div class="container">
       
       <div class="row">
@@ -331,38 +306,40 @@ Amir Zare - Professional web developer and programmer
             <div id="blogSlider">
               <ul class="slides">
                 <li>
-          <!-- Blog Entry 1 -->
+          <!-- Project Entry 1 -->
                   <div class="col-md-4 wp4">
                     <div class="overlay-effect effects clearfix">
                       <div class="img">
-                        <img src="img/blog1.jpg" class="grayscale" alt="Blog Item">
+                        <img src="img/blog1.jpg" class="grayscale" alt="Project Item">
                       </div>
                     </div>
           <br>
                     <h2>Social Media</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p><!-- Description-->
+                    <p>This project was Wrote With the Django framework.This is a Simple Social Media.</p><!-- Description-->
                   </div>
         <!-- Blog Entry 2 -->
                   <div class="col-md-4 wp4 delay-05s">
                     <div class="overlay-effect effects clearfix">
                       <div class="img">
-                        <img src="img/blog2.jpg" class="grayscale" alt="Blog Item">
+                        <img src="img/blog2.jpg" class="grayscale" alt="Project Item">
                       </div>
                     </div>
           <br>
                     <h2>Laravel Project</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p><!-- Description -->
+                    <p>The Simple PhoneBook With The Laravel FrameWork And PHP.</p><!-- Description -->
                   </div>
         <!-- Blog Entry 3 -->
                   <div class="col-md-4 wp4 delay-1s">
                     <div class="overlay-effect effects clearfix">
                       <div class="img">
-                        <img src="img/blog3.jpg"  class="grayscale" alt="Blog Item">
+                        <img src="img/blog3.jpg"  class="grayscale" alt="Project Item">
                       </div>
                     </div>
           <br>
                     <h2>Glass Company</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p><!-- Description-->
+                    <p>It is a project for the laboratory of the Glass Company.
+                      This project was Wrote With the Laravel framework
+                    </p><!-- Description-->
                   </div>
                 </li>
                 <li>
@@ -370,34 +347,34 @@ Amir Zare - Professional web developer and programmer
                   <div class="col-md-4 wp4">
                     <div class="overlay-effect effects clearfix">
                       <div class="img">
-                        <img src="img/blog4.jpg" class="grayscale" alt="Blog Item">
+                        <img src="img/blog4.jpg" class="grayscale" alt="Project Item">
                       </div>
                     </div>
           <br>
                     <h2>Guess Images</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p><!-- Description -->
+                    <p>Was Used Keras and VGG16.</p><!-- Description -->
                   </div>
-        <!-- Blog Entry 5 -->
+        <!-- Project Entry 5 -->
                   <div class="col-md-4 wp4 delay-05s">
                     <div class="overlay-effect effects clearfix">
                       <div class="img">
-                        <img src="img/blog5.jpg" class="grayscale" alt="Blog Item">
+                        <img src="img/blog5.jpg" class="grayscale" alt="Project Item">
                       </div>
                     </div>
           <br>
                     <h2>Create Model</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p>
+                    <p>Was Used Keras,Models,Layers,...</p>
                   </div>
-        <!-- Blog Entry 6 -->
+        <!-- Project Entry 6 -->
                   <div class="col-md-4 wp4 delay-1s">
                     <div class="overlay-effect effects clearfix">
                       <div class="img">
-                        <img src="img/blog6.jpg" class="grayscale" alt="Blog Item">
+                        <img src="img/blog6.jpg" class="grayscale" alt="Project Item">
                       </div>
                     </div>
           <br>
                     <h2>Detect Pictures</h2>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero.</p><!-- Description -->
+                    <p>Was Used Keras And Xception.</p><!-- Description -->
                   </div>
                 </li>
               </ul>
@@ -406,7 +383,7 @@ Amir Zare - Professional web developer and programmer
         </div>
       </section>
   <!-- ==========================
-      BLOG SECTION END
+      Project SECTION END
       =========================== -->
   
       
@@ -420,14 +397,12 @@ Amir Zare - Professional web developer and programmer
               <div class="col-md-6 nopadding features-intro-img wow fadeInLeft">
                   <div class="about-image" style="background-image:url(img/clients.png)"></div>
               </div>
-              <!-- Clients / Testimonials -->
               <div class="col-md-6 nopadding about-text">
               <h6>Paziresh24 Team</h6>
                   <div id="clientSlider">
                      <ul class="slides">
                          <li><p>Paziresh24 Team sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Pete Rock, A New Tomorrow</small></p></li>
-                         <li><p>Paziresh24 Team sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Michael Snowden, Creativeland CEO</small></p></li>
-                        <li><p>Paziresh24 Team sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Tom Davis, GreenWonder</small></p>	</li>
+                         <li><p>Paziresh24 Team sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Pete Rock, A New Tomorrow</small></p></li>
                      </ul>
                   </div>
               </div>
@@ -447,12 +422,13 @@ Amir Zare - Professional web developer and programmer
       <section>
       <div class="container-fluid">
               <div class="row color-bg">
-                  <div class="col-md-6 nopadding subscribe text-center">
-                   <h1><i class="fa fa-paper-plane"></i><span>Subscribe our Newsletter</span></h1><!-- Heading -->
-                   <form action="#">
-                     <input type="text" name="" value="" placeholder="" required><!-- E-Mail -->
-                     <input type="submit" name="" value="Send"><!-- Submit Button -->
-                  </form>   
+                <div class="col-md-6 nopadding about-text">
+                  <h6>Paziresh24 Team</h6>
+                      <div id="clientSlider">
+                         <ul class="slides">
+                             <li><p>Paziresh24 Team sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Pete Rock, A New Tomorrow</small></p></li>
+                         </ul>
+                      </div>
                   </div>
                   <div class="col-md-6 nopadding features-intro-img">
                        <div class="about-image" style="background-image:url(img/newsletter.png)"></div><!-- Right Image -->
