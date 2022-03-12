@@ -486,6 +486,11 @@ table {
 	color:#0b0000;
 	font-size: 15px;
 }
+
+.certificate{
+	border-style: outset;
+	margin-right: 30px;
+}
 /* Boucing Arrow Animation */
 @keyframes arrowbounce {
 	from {

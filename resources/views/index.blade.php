@@ -24,9 +24,10 @@ Amir Zare - Professional web developer and programmer
                   <div class="icon-list">
                       <a href="#home"><i class="fa fa-fw fa-home"></i><span>Home</span></a>
                       <a href="#about"><i class="fa fa-fw fa-quote-left"></i><span>About</span></a>
-                      <a href="#service"><i class="fa fa-fw fa-globe"></i><span>Service</span></a>
-                      <a href="#portfolio"><i class="fa fa-fw fa-picture-o"></i><span>Portfolio</span></a>
-                      <a href="#Project"><i class="fa fa-fw fa-rss"></i><span>Project</span></a>
+                      <a href="#education"><i class="fa fa-fw fa-university"></i><span>Education</span></a>
+                      <a href="#skills"><i class="fa fa-fw fa-user-md"></i><span>Skill</span></a>
+                      <a href="#cetificate"><i class="fa fa-fw fa-certificate"></i><span>cetificate</span></a>
+                      <a href="#Project"><i class="fa fa-fw fa-tasks"></i><span>Project</span></a>
                       <a href="#contact"><i class="fa fa-fw fa-envelope-o"></i><span>Contact</span></a>
                   </div>
               </nav>
@@ -84,13 +85,12 @@ Amir Zare - Professional web developer and programmer
             <div class="col-md-8 col-md-offset-2 wp1">
               <h1 class="arrow">A little <span>about</span> me</h1>
               <!-- about / welcome text -->
-              <!-- <p>I am enough of an artist to draw freely upon my imagination. The point is that when I see a sunset or a <a href="#">waterfall</a> or something, for a split second it's so great, because for a little bit I'm out of my brain, and it's got nothing to do with me. I'm not trying to figure it out, you know what I mean? And I wonder if I can somehow find a way to maintain that mind stillness.</p> -->
-            <p>Mid Level Web Developer with +2 years of
-              experience in programming. Experience
-              in Mahya company with PHP, javascript
-              language, and Laravel framework, QA in
-              Paziresh24 and Glass company and 
-              Working with Artificial Intelligence at the University</p>
+            <p>Mid Level Web Developer with +2 years of experience in programming.
+               Experience in Mahya company with PHP, javascript language, and
+                Laravel framework, QA platform in Paziresh24 company and
+                 Laravel Framework, Vue js in Glass company and
+                  Working with Artificial Intelligence at the University
+            </p>
             </div>
           </div>
         </div>
@@ -144,33 +144,71 @@ Amir Zare - Professional web developer and programmer
 
 
 
-
-      <div class="container-fluid">
-          <!-- About 1 -->
-          <div class="row color-bg">
-              <div class="col-md-6 nopadding features-intro-img">
-                  <div class="about-image" style="background-image:url(img/about1.png)"></div><!-- about image 1 -->
-              </div>
-              <div class="col-md-6 about-text">
-                  <h1>EDUCATION</h1><hr>
-                  <h6>Bachelor Degree</h6>
-                  <h6>Software Engineering</h6>
-                  <h6><a href="http://meybod.ac.ir/default/lang/En" target="_blank">Meybod University</a></h6>
-                  <p>2018 - 2022</p><br>
-              </div>
-          </div>
-      </div>
+      <section id="education">
+        <div class="container-fluid">
+            <!-- About 1 -->
+            <div class="row color-bg">
+                <div class="col-md-6 nopadding features-intro-img">
+                    <div class="about-image" style="background-image:url(img/about1.png)"></div><!-- about image 1 -->
+                </div>
+                <div class="col-md-6 about-text">
+                    <h1>EDUCATION</h1><hr>
+                    <h6>Bachelor Degree</h6>
+                    <h6>Software Engineering</h6>
+                    <h6><a href="http://meybod.ac.ir/default/lang/En" target="_blank">Meybod University</a></h6>
+                    <p>2018 - 2022</p><br>
+                </div>
+            </div>
+        </div>
+      </section>
       <!-- ==========================
       ABOUT SECTION END
       =========================== -->	
-
-      
-      
+      <section class="swag text-center" id="skills">
+        <div class="container">
+          
+          <div class="row">
+            <h1 class="arrow">
+              My <span>Skills</span>
+            </h1>
+          </div>
+        </div>
+      </section>
+      <div class="spacer-cta text-center">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-4">
+              <p class="outline-btn">PHP</p>
+              <p class="outline-btn">Laravel</p>
+              <p class="outline-btn">Python</p>
+              <p class="outline-btn">Cakephp</p>
+              <p class="outline-btn">Django</p>
+              <p class="outline-btn"><small>process maker</small></p>
+            
+            </div>
+            <div class="col-md-4">
+              <p class="outline-btn">Javascript </p>
+              <p class="outline-btn">jQuery</p>
+              <p class="outline-btn">html</p>
+              <p class="outline-btn">Vue Js</p>
+              <p class="outline-btn">Git</p>
+              <p class="outline-btn">MySQL</p>
+            </div>
+            <div class="col-md-4">
+              <p class="outline-btn">pandas</p>
+              <p class="outline-btn">matplotlib</p>
+              <p class="outline-btn">keras</p>
+              <p class="outline-btn">tensorflow</p>
+              <p class="outline-btn">opencv</p>
+            </div>
+          </div>
+        </div>
+      </div>
       
       <!-- ==========================
       PORTFOLIO SECTION
   =========================== -->
-      <section class="swag text-center" id="portfolio">
+      <section class="swag text-center" id="cetificate">
         <div class="container">
           
           <div class="row">
@@ -187,8 +225,8 @@ Amir Zare - Professional web developer and programmer
         <!-- PORTFOLIO ITEM 1 -->
         <div class="col-md-3 col-sm-6">
             <div class="overlay-effect effects clearfix">
-                <div class="img">
-                    <a href="{{ asset('img/portfolio/portfolio-01-large.jpg') }}" data-lightbox="roadtrip" title="Project One - Lorem Ipsum"><img class="grayscale" src="img/portfolio/portfolio-01-thumbnail.jpg" alt="Portfolio Item"></a>
+                <div class="img certificate">
+                    <a href="{{ asset('img/portfolio/portfolio-01-large.jpg') }}" data-lightbox="roadtrip" title="Certificate One - Mastering Visual Studio Code"><img class="grayscale" src="img/portfolio/portfolio-01-thumbnail.jpg" alt="Portfolio Item"></a>
                 </div>
             </div>
         </div>
@@ -197,8 +235,8 @@ Amir Zare - Professional web developer and programmer
         <!-- PORTFOLIO ITEM 2 -->
         <div class="col-md-3 col-sm-6">
             <div class="overlay-effect effects clearfix">
-                <div class="img">
-                    <a href="{{ asset('img/portfolio/portfolio-02-large.jpg') }}" data-lightbox="roadtrip" title="Project Two - Lorem Ipsum"><img class="grayscale" src="img/portfolio/portfolio-02-thumbnail.jpg" alt="Portfolio Item"></a>
+                <div class="img certificate">
+                    <a href="{{ asset('img/portfolio/portfolio-02-large.jpg') }}" data-lightbox="roadtrip" title="Certificate Two - Complete PYTHON Programming for Beginners - 2021"><img class="grayscale" src="img/portfolio/portfolio-02-thumbnail.jpg" alt="Portfolio Item"></a>
                 </div>
             </div>
         </div>
@@ -207,8 +245,8 @@ Amir Zare - Professional web developer and programmer
         <!-- PORTFOLIO ITEM 3 -->
         <div class="col-md-3 col-sm-6">
             <div class="overlay-effect effects clearfix">
-                <div class="img">
-                    <a href="{{ asset('img/portfolio/portfolio-03-large.jpg') }}" data-lightbox="roadtrip" title="Project Three - Lorem Ipsum"><img class="grayscale" src="img/portfolio/portfolio-03-thumbnail.jpg" alt="Portfolio Item"></a>
+                <div class="img certificate">
+                    <a href="{{ asset('img/portfolio/portfolio-03-large.jpg') }}" data-lightbox="roadtrip" title="Certificate Three - Make Laravel and Laravel 8 APIs and Apps fast with blueprint"><img class="grayscale" src="img/portfolio/portfolio-03-thumbnail.jpg" alt="Portfolio Item"></a>
                 </div>
             </div>
         </div>
@@ -217,8 +255,8 @@ Amir Zare - Professional web developer and programmer
         <!-- PORTFOLIO ITEM 4 -->
         <div class="col-md-3 col-sm-6 ">
             <div class="overlay-effect effects clearfix">
-                <div class="img">
-                    <a href="{{ asset('img/portfolio/portfolio-04-large.jpg') }}" data-lightbox="roadtrip" title="Project Four - Lorem Ipsum"><img class="grayscale" src="img/portfolio/portfolio-04-thumbnail.jpg" alt="Portfolio Item"></a>
+                <div class="img certificate">
+                    <a href="{{ asset('img/portfolio/portfolio-04-large.jpg') }}" data-lightbox="roadtrip" title="Certificate Four - Learn Basic Data science and Python Libraries"><img class="grayscale" src="img/portfolio/portfolio-04-thumbnail.jpg" alt="Portfolio Item"></a>
                 </div>
             </div>
         </div>
@@ -227,8 +265,8 @@ Amir Zare - Professional web developer and programmer
         <!-- PORTFOLIO ITEM 5 -->
         <div class="col-md-3 col-sm-6 ">
             <div class="overlay-effect effects clearfix">
-                <div class="img">
-                    <a href="{{ asset('img/portfolio/portfolio-05-large.jpg') }}" data-lightbox="roadtrip" title="Project Five - Lorem Ipsum"><img class="grayscale" src="img/portfolio/portfolio-05-thumbnail.jpg" alt="Portfolio Item"></a>
+                <div class="img certificate">
+                    <a href="{{ asset('img/portfolio/portfolio-05-large.jpg') }}" data-lightbox="roadtrip" title="Certificate Five - The SQL Programming Essentials 2021 Immersive Training"><img class="grayscale" src="img/portfolio/portfolio-05-thumbnail.jpg" alt="Portfolio Item"></a>
                 </div>
             </div>
         </div>
@@ -237,8 +275,8 @@ Amir Zare - Professional web developer and programmer
         <!-- PORTFOLIO ITEM 6 -->
         <div class="col-md-3 col-sm-6">
             <div class="overlay-effect effects clearfix">
-                <div class="img">
-                    <a href="{{ asset('img/portfolio/portfolio-06-large.jpg') }}" data-lightbox="roadtrip" title="Project Six - Lorem Ipsum"><img class="grayscale" src="img/portfolio/portfolio-06-thumbnail.jpg" alt="Portfolio Item"></a>
+                <div class="img certificate">
+                    <a href="{{ asset('img/portfolio/portfolio-06-large.jpg') }}" data-lightbox="roadtrip" title="Certificate Six - Git & GitHub For Beginners - Master Git and GitHub (2021)"><img class="grayscale" src="img/portfolio/portfolio-06-thumbnail.jpg" alt="Portfolio Item"></a>
                 </div>
             </div>
         </div>
@@ -247,8 +285,8 @@ Amir Zare - Professional web developer and programmer
         <!-- PORTFOLIO ITEM 7 -->
         <div class="col-md-3 col-sm-6">
             <div class="overlay-effect effects clearfix">
-                <div class="img">
-                    <a href="{{ asset('img/portfolio/portfolio-07-large.jpg') }}" data-lightbox="roadtrip" title="Project Seven - Lorem Ipsum"><img class="grayscale" src="img/portfolio/portfolio-07-thumbnail.jpg" alt="Portfolio Item"></a>
+                <div class="img certificate">
+                    <a href="{{ asset('img/portfolio/portfolio-07-large.jpg') }}" data-lightbox="roadtrip" title="Certificate Seven - Python Django Full Social Media Course"><img class="grayscale" src="img/portfolio/portfolio-07-thumbnail.jpg" alt="Portfolio Item"></a>
                 </div>
             </div>
         </div>
@@ -257,8 +295,8 @@ Amir Zare - Professional web developer and programmer
         <!-- PORTFOLIO ITEM 8 -->
         <div class="col-md-3 col-sm-6">
             <div class="overlay-effect effects clearfix">
-                <div class="img">
-                    <a href="{{ asset('img/portfolio/portfolio-08-large.jpg') }}" data-lightbox="roadtrip" title="Project Eight - Lorem Ipsum"><img class="grayscale" src="img/portfolio/portfolio-08-thumbnail.jpg" alt="Portfolio Item"></a>
+                <div class="img certificate">
+                    <a href="{{ asset('img/portfolio/portfolio-08-large.jpg') }}" data-lightbox="roadtrip" title="Certificate Eight - member of university scientific association"><img class="grayscale" src="img/portfolio/portfolio-08-thumbnail.jpg" alt="Portfolio Item"></a>
                 </div>
             </div>
         </div>
@@ -280,6 +318,7 @@ Amir Zare - Professional web developer and programmer
           <div class="row">
             <div class="col-md-12">
               <a href="#contact" class="outline-btn">hire Amir Zare</a>
+              <a href="{{ asset('files/AmirRezaZare.pdf') }}" class="outline-btn" target="_blank">See My Full Resume</a>
             </div>
           </div>
         </div>
@@ -401,8 +440,10 @@ Amir Zare - Professional web developer and programmer
               <h6>Paziresh24 Team</h6>
                   <div id="clientSlider">
                      <ul class="slides">
-                         <li><p>Paziresh24 Team sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Pete Rock, A New Tomorrow</small></p></li>
-                         <li><p>Paziresh24 Team sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Pete Rock, A New Tomorrow</small></p></li>
+                         <li><p>In the paziresh24 Company, we were a team that solved problems, we worked with PHP, Laravel, Zend framework and  JavaScript, JQuery.
+                          We had a health app, that helps people to be safer. 
+                          <br><small>-2021</small></p></li>
+                         <li><p> +500k downloaded in Google Play<br>Best App in health field in iran <br>	Programming with Laravel framework<br>Development with QA platform<br></p></li>
                      </ul>
                   </div>
               </div>
@@ -423,10 +464,10 @@ Amir Zare - Professional web developer and programmer
       <div class="container-fluid">
               <div class="row color-bg">
                 <div class="col-md-6 nopadding about-text">
-                  <h6>Paziresh24 Team</h6>
+                  <h6>Mahya Team</h6>
                       <div id="clientSlider">
                          <ul class="slides">
-                             <li><p>Paziresh24 Team sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. <br>	<small>- Pete Rock, A New Tomorrow</small></p></li>
+                             <li><p>In the MahyaPardaz Company, We had so many challenges to solve. <br>-Programming with Cakephp framework<br>-Programming with JavaScript,jQuery<br>-Working with ProcessMaker<br>-Cooperation with municipalities<br><small>2019-2021</small></p></li>
                          </ul>
                       </div>
                   </div>
