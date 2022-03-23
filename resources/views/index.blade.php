@@ -85,7 +85,7 @@ Amir Zare - Professional web developer and programmer
             <div class="col-md-8 col-md-offset-2 wp1">
               <h1 class="arrow">A little <span>about</span> me</h1>
               <!-- about / welcome text -->
-            <p>Mid Level Web Developer with +2 years of experience in programming.
+            <p>Mid Level Backend Developer with almost 3 years of experience in programming.
                Experience in Mahya company with PHP, javascript language, and
                 Laravel framework, QA platform in Paziresh24 company and
                  Laravel Framework, Vue js in Glass company and

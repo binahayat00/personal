@@ -6,7 +6,7 @@
 <body>
     <h1>{{ $title }}</h1>
     <p>{{ $date }}</p>
-    <p>Mid Level Web Developer with +2 years of
+    <p>Mid Level Backend Developer with almost 3 years of
       experience in programming. Experience
       in Mahya company with PHP, javascript
       language, and Laravel framework, QA in
